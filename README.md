@@ -1,5 +1,5 @@
 ### Hi there 👋
-My name is Fernando and I'm a Jr. Front-end web developer currently studying to become Full-Stack!
+My name is Fernando and I'm a Full Stack web developer!
 
 📫 How to reach me:
 
